@@ -1,0 +1,6 @@
+name: oa-guidance
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+prefix: /home/ishan/miniforge3/envs/oa-guidance
