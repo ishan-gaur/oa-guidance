@@ -1,1 +1,1 @@
-from constants import *
+from oag.constants import HOME_FOLDER, DATA_FOLDER, DB_FOLDER, OUTPUT_FOLDER

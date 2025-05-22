@@ -1,6 +1,15 @@
-name: oa-guidance
+name: base
 channels:
   - conda-forge
 dependencies:
   - python=3.12
-prefix: /home/ishan/miniforge3/envs/oa-guidance
+  - pip
+  - conda[version='>=24.7.1']
+  - mamba[version='>=1.5.9']
+  - ipykernel
+  - fire
+  - ca-certificates
+  - certifi
+  - openssl
+  - python-dotenv
+prefix: /home/ishan/miniforge3
