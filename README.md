@@ -1,3 +1,8 @@
+## Setup
+Need to install local esm fork with pip install -e . from ~/local_dependencies/esm/
+Need to install local CLEAN fork with python build.py install from ~/local_dependencies/CLEAN/app
+
+
 TODO: 
 1. move as much of this into a setup script as possible
 2. start your own caching library based on sebastian prillo's
